@@ -3,5 +3,5 @@ body {
 }
 
 .home {
-    background-image: url("C:\Users\abrah\Workspace\Mi_Portafolio\img\background.jpg");
+    background-image: url("..\img\background.jpg");
 }
